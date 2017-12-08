@@ -1,0 +1,10 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/bin/Debug/netcoreapp2.0/Pairs.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/bin/Debug/netcoreapp2.0/Pairs.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/bin/Debug/netcoreapp2.0/Pairs.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/bin/Debug/netcoreapp2.0/Pairs.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/bin/Debug/netcoreapp2.0/Pairs.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/obj/Debug/netcoreapp2.0/Pairs.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/obj/Debug/netcoreapp2.0/Pairs.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/obj/Debug/netcoreapp2.0/Pairs.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/obj/Debug/netcoreapp2.0/Pairs.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/Pairs/obj/Debug/netcoreapp2.0/Pairs.pdb

@@ -1,0 +1,10 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/bin/Debug/netcoreapp2.0/SherlockAndArray.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/bin/Debug/netcoreapp2.0/SherlockAndArray.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/bin/Debug/netcoreapp2.0/SherlockAndArray.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/bin/Debug/netcoreapp2.0/SherlockAndArray.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/bin/Debug/netcoreapp2.0/SherlockAndArray.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/obj/Debug/netcoreapp2.0/SherlockAndArray.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/obj/Debug/netcoreapp2.0/SherlockAndArray.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/obj/Debug/netcoreapp2.0/SherlockAndArray.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/obj/Debug/netcoreapp2.0/SherlockAndArray.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SherlockAndArray/obj/Debug/netcoreapp2.0/SherlockAndArray.pdb

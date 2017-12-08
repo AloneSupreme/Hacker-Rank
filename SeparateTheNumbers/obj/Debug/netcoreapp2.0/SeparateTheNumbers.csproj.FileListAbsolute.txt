@@ -1,0 +1,11 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/bin/Debug/netcoreapp2.0/SeparateTheNumbers.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/bin/Debug/netcoreapp2.0/SeparateTheNumbers.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/bin/Debug/netcoreapp2.0/SeparateTheNumbers.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/bin/Debug/netcoreapp2.0/SeparateTheNumbers.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/bin/Debug/netcoreapp2.0/SeparateTheNumbers.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/obj/Debug/netcoreapp2.0/SeparateTheNumbers.csprojResolveAssemblyReference.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/obj/Debug/netcoreapp2.0/SeparateTheNumbers.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/obj/Debug/netcoreapp2.0/SeparateTheNumbers.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/obj/Debug/netcoreapp2.0/SeparateTheNumbers.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/obj/Debug/netcoreapp2.0/SeparateTheNumbers.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/SeparateTheNumbers/obj/Debug/netcoreapp2.0/SeparateTheNumbers.pdb

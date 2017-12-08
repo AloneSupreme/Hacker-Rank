@@ -1,0 +1,10 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/bin/Debug/netcoreapp2.0/StockMaximize.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/bin/Debug/netcoreapp2.0/StockMaximize.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/bin/Debug/netcoreapp2.0/StockMaximize.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/bin/Debug/netcoreapp2.0/StockMaximize.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/bin/Debug/netcoreapp2.0/StockMaximize.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/obj/Debug/netcoreapp2.0/StockMaximize.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/obj/Debug/netcoreapp2.0/StockMaximize.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/obj/Debug/netcoreapp2.0/StockMaximize.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/obj/Debug/netcoreapp2.0/StockMaximize.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/StockMaximize/obj/Debug/netcoreapp2.0/StockMaximize.pdb

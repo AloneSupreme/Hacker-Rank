@@ -1,0 +1,11 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/bin/Debug/netcoreapp2.0/InsertionSortPart1.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/bin/Debug/netcoreapp2.0/InsertionSortPart1.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/bin/Debug/netcoreapp2.0/InsertionSortPart1.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/bin/Debug/netcoreapp2.0/InsertionSortPart1.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/bin/Debug/netcoreapp2.0/InsertionSortPart1.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/obj/Debug/netcoreapp2.0/InsertionSortPart1.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/obj/Debug/netcoreapp2.0/InsertionSortPart1.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/obj/Debug/netcoreapp2.0/InsertionSortPart1.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/obj/Debug/netcoreapp2.0/InsertionSortPart1.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/obj/Debug/netcoreapp2.0/InsertionSortPart1.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/InsertionSortPart1/obj/Debug/netcoreapp2.0/InsertionSortPart1.csprojResolveAssemblyReference.cache

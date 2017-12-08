@@ -1,0 +1,11 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/bin/Debug/netcoreapp2.0/BirthdayChoclate.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/bin/Debug/netcoreapp2.0/BirthdayChoclate.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/bin/Debug/netcoreapp2.0/BirthdayChoclate.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/bin/Debug/netcoreapp2.0/BirthdayChoclate.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/bin/Debug/netcoreapp2.0/BirthdayChoclate.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/obj/Debug/netcoreapp2.0/BirthdayChoclate.csprojResolveAssemblyReference.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/obj/Debug/netcoreapp2.0/BirthdayChoclate.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/obj/Debug/netcoreapp2.0/BirthdayChoclate.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/obj/Debug/netcoreapp2.0/BirthdayChoclate.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/obj/Debug/netcoreapp2.0/BirthdayChoclate.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/BirthdayChoclate/obj/Debug/netcoreapp2.0/BirthdayChoclate.pdb

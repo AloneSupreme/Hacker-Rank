@@ -1,0 +1,10 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/bin/Debug/netcoreapp2.0/TwoCharacters.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/bin/Debug/netcoreapp2.0/TwoCharacters.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/bin/Debug/netcoreapp2.0/TwoCharacters.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/bin/Debug/netcoreapp2.0/TwoCharacters.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/bin/Debug/netcoreapp2.0/TwoCharacters.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/obj/Debug/netcoreapp2.0/TwoCharacters.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/obj/Debug/netcoreapp2.0/TwoCharacters.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/obj/Debug/netcoreapp2.0/TwoCharacters.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/obj/Debug/netcoreapp2.0/TwoCharacters.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/TwoCharacters/obj/Debug/netcoreapp2.0/TwoCharacters.pdb

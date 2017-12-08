@@ -1,0 +1,11 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/bin/Debug/netcoreapp2.0/MissingNumbers.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/bin/Debug/netcoreapp2.0/MissingNumbers.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/bin/Debug/netcoreapp2.0/MissingNumbers.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/bin/Debug/netcoreapp2.0/MissingNumbers.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/bin/Debug/netcoreapp2.0/MissingNumbers.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/obj/Debug/netcoreapp2.0/MissingNumbers.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/obj/Debug/netcoreapp2.0/MissingNumbers.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/obj/Debug/netcoreapp2.0/MissingNumbers.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/obj/Debug/netcoreapp2.0/MissingNumbers.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/obj/Debug/netcoreapp2.0/MissingNumbers.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/MissingNumbers/obj/Debug/netcoreapp2.0/MissingNumbers.csprojResolveAssemblyReference.cache

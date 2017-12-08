@@ -1,0 +1,10 @@
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/obj/Debug/netcoreapp2.0/CrosswordPuzzle.csproj.CoreCompileInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/obj/Debug/netcoreapp2.0/CrosswordPuzzle.AssemblyInfoInputs.cache
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/obj/Debug/netcoreapp2.0/CrosswordPuzzle.AssemblyInfo.cs
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/bin/Debug/netcoreapp2.0/CrosswordPuzzle.deps.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/bin/Debug/netcoreapp2.0/CrosswordPuzzle.runtimeconfig.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/bin/Debug/netcoreapp2.0/CrosswordPuzzle.runtimeconfig.dev.json
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/bin/Debug/netcoreapp2.0/CrosswordPuzzle.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/bin/Debug/netcoreapp2.0/CrosswordPuzzle.pdb
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/obj/Debug/netcoreapp2.0/CrosswordPuzzle.dll
+/Users/SuPrEm3/Documents/DOT_NET/FullTime Training/Tests/Saggezza/CrosswordPuzzle/obj/Debug/netcoreapp2.0/CrosswordPuzzle.pdb
